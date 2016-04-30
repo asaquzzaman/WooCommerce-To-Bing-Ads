@@ -1,4 +1,4 @@
-<?php //redola
+<?php 
 class WooBing_Admin_Feed {
 	
 	function __construct() {
